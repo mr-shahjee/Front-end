@@ -1,0 +1,28 @@
+{
+  "dashboard": [
+    {
+      "type": "Doctors",
+      "amount": 18,
+      "progress": 50,
+      "date": 1427207139000
+    },
+    {
+      "type": "Patients",
+      "amount": 702,
+      "progress": 70,
+      "date": 1427412725000
+    },
+    {
+      "type": "Admitted Patients",
+      "amount": 129,
+      "progress": 80,
+      "date": 1427546580000
+    },
+    {
+      "type": "New User",
+      "amount": 1922,
+      "progress": 40,
+      "date": 1427891640000
+    }
+  ]
+}
