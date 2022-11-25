@@ -42,7 +42,7 @@
     "@ng-matero/extensions": "^14.2.0",
     "@ng-matero/extensions-moment-adapter": "^14.0.0",
     "@ngx-formly/core": "^6.0.0",
-    "@ngx-formly/material": "^6.0.0",
+    "@ngx-formly/material": "^6.0.2",
     "@ngx-translate/core": "^14.0.0",
     "@ngx-translate/http-loader": "^7.0.0",
     "@popperjs/core": "^2.10.2",
